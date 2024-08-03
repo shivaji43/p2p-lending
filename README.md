@@ -6,4 +6,3 @@
 6. **notifications** (not a route only for showing small notifications)
 7. **My profile** -> email, number, pfp, bank , address, pan number 
 8. **Simple logout button**
-
